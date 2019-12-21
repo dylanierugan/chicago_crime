@@ -1,1 +1,2 @@
-# chicago_crime
+# Chicago Crime Library
+## Visualize crime in different neigbhorhoods
