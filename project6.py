@@ -27,7 +27,7 @@ def make_dictionary(df, col, value, unique_id):
     
     ''' Creates a dictionary where the key is one of 1-77 Chicago 
     districts. The value is the number of crimes in that district since 
-    2012. '''
+    2012. Edit'''
     
     crime_dictionary = {}
     for x in ls:
